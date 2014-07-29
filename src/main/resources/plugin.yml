@@ -2,3 +2,4 @@ name: Spinster
 main: us.zingalicio.spinster.Spinster
 version: 0.0.0
 author: zingten11
+depend: [ZingLib]
