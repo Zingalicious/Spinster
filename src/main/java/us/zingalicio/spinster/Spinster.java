@@ -1,8 +1,8 @@
 package us.zingalicio.spinster;
 
-import org.bukkit.plugin.java.JavaPlugin;
+import us.zingalicio.cordstone.ZingPlugin;
 
-public class Spinster extends JavaPlugin
+public class Spinster extends ZingPlugin
 {
 
 }
